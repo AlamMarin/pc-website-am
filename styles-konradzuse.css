@@ -1,0 +1,165 @@
+* { 
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    
+    background-image:  url("https://i.ibb.co/4KqMH8K/foto-alt-zuse.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Zen Kurenaido', sans-serif;
+    font-size: 17px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.modulo1{
+    background-color: #bcd1e6;
+}
+header{
+    font-family: 'Dongle', sans-serif;
+    text-align: center;
+    font-size: 150px;
+}
+h2{
+    padding-top: 9px;
+    font-size: 44px;
+}
+.nav1{
+    display: flex;
+    flex-direction: row;
+    background-color: #d6e1ed;
+    justify-content: center;
+    text-align: center;
+    white-space: 103px;
+    margin-bottom: 15px;
+    border-right-width: 10px;
+}
+.botonnav1{
+    width: 150px;
+    height: auto;
+    font-size: 18px;
+    margin: 0px 12px;
+    padding: 0px 25px;
+    padding-bottom: 3px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 40px 4px #b8c9da;
+}
+.botonnav1:hover{
+    background-color: #a9c2da;
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+    margin: 0px 19px;
+}
+.parrafo1{
+    background-color: #94bcdc;
+    margin-top: 6px;
+    border-radius: 5px;
+    padding: 8px 5px;
+    padding-left: 20px;
+}
+.divp1{ 
+    background-color: #bcd1e6;
+    margin: 0px 18px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    padding: 10px 20px;
+    width: 950px;
+    float: left;
+    border-radius: 10px;
+}
+.fas{
+    margin-right: 10px;
+}
+aside { 
+    background-color: #94bcdc;
+    height: auto;
+    margin-top: 2px;
+    padding-top: 50px;
+    text-align: center;
+}
+.imgkonradzuse{
+    background-color: #e1d5bf;
+    border-radius: 8px;
+    margin-top: 5px;
+    margin-bottom: 88px;
+}
+
+.epigrafeimagenfondo{
+    background-color: #c4d6e8;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 2px;
+    font-size: 16px;
+}
+.modulo2{
+    background-color: #fff4d6;
+}
+.ttr{
+    background-color: #94bcdc;
+    padding: 30px 20px 5px 20px;
+    border-radius: 10px;
+}
+.tr{
+    background-color: #b5cfe6;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 0px 1px;
+    margin-bottom: 20px;
+}
+.tableimg{
+    width: auto;
+    margin: auto;
+    text-align: center;
+}
+.imgz{
+    height: 200px;
+    background-color: #c4d6e8; 
+    padding: 10px;
+    margin: 0px 5px;
+    border-radius: 8px;
+}
+.masinformacion{
+    font-size: 16px;
+    display: flex;
+    flex-direction: row;
+    background-color: #d6e1ed;
+    justify-content: center;
+    text-align: center;
+    border-right-width: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.mimasinformacion{
+    margin-right: auto;
+    margin-left: 10px;
+    padding-top: 1px;
+}
+.elementomasinfo{
+    background-color: #a9c2da;
+    margin: 4px 2px;
+    width: 100px;
+    border-radius: 3px;
+}
+.elementomasinfo:hover{
+    background-color: #d6e1ed;
+}
+.elementomasinfo:active{
+    background-color: #78a9d6;
+}
+footer{
+    background-color: white;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-size: 15px;
+}
+.pfooter{
+    text-align: right;
+    margin-right: 10px;
+}
+
